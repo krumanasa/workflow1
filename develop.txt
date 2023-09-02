@@ -1,0 +1,6 @@
+# Pseudo-code for the develop branch
+branch: develop
+
+on_merge_from: feature/*   # Merged from feature branches
+
+description: Ongoing development branch.
