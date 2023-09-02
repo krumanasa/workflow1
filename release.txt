@@ -1,7 +1,0 @@
-# Pseudo-code for a release branch
-branch: release/1.0
-
-on_merge_from: develop   # Merged from develop branch
-on_merge_into: master    # Merged into master branch
-
-description: Release branch for version 1.0.
