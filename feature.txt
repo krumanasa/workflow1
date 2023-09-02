@@ -1,0 +1,6 @@
+# Pseudo-code for a feature branch
+branch: feature/user-authentication
+
+on_merge_into: develop   # Merged into the develop branch
+
+description: Feature branch for implementing user authentication.
