@@ -1,0 +1,7 @@
+# Pseudo-code for a hotfix branch
+branch: hotfix/1.0.1
+
+on_merge_from: master   # Merged from master branch
+on_merge_into: master   # Merged into master branch and develop branch
+
+description: Hotfix branch for fixing critical bug in version 1.0.
