@@ -1,6 +1,0 @@
-# Pseudo-code for the main branch
-branch: main
-
-on_merge_from: release/*   # Merged from release branches
-
-description: Production-ready code for the latest release.
